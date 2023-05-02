@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T01:14:43.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="APJBuvtGcSVRR4q5SGlm" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T01:15:36.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RCoREuTWnG5TPg4yIQVx" version="21.2.1" type="github">
   <diagram name="Page-1" id="kaW7Qjcxtzvso0iOPluT">
     <mxGraphModel dx="2163" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -331,7 +331,7 @@
             <mxRectangle width="168" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qji5BI7XguPjcyvhHhRk-79" value="support type" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
+        <mxCell id="qji5BI7XguPjcyvhHhRk-79" value="&lt;b&gt;support type&lt;/b&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="-80" width="350" height="300" as="geometry" />
         </mxCell>
         <mxCell id="qji5BI7XguPjcyvhHhRk-80" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="qji5BI7XguPjcyvhHhRk-79" vertex="1">
@@ -574,7 +574,7 @@
             <mxRectangle width="300" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7We703x6-JwxdfN_VP11-1" value="assigned ticket" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="7We703x6-JwxdfN_VP11-1" value="Ticket Available" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="-29" y="240" width="220.00000000000023" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7We703x6-JwxdfN_VP11-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="7We703x6-JwxdfN_VP11-1">
